@@ -26,8 +26,8 @@
 |Spring                |[Spring Framework][s-sf-o]   |[4.3.0][s-sf-s]  |[Reference][s-sf-d]    |
 |Test Frameworks       |[JUnit][tf-ju-o]             |[4.12][tf-ju-s]  |[javadoc][tf-ju-d]     |
 |                      |[Spock Framework][tf-sf-o]   |[1.0][tf-sf-s]   |[Documentation][tf-sf-d1] <br> [javadoc][tf-sf-d2]|
-|Workflow Platform     |[Activiti][wp-1]             |[5.22.0][wp-2]   |[Activiti Readme][wp-3]|
-|Workflow Web Designer |[Activit Web Designer][wwd-1]|                 |                       |
+|Workflow Platform     |[Flowable][wp-1]             |[6.2.1][wp-2]   |[Flowable Readme][wp-3]|
+|Workflow Web Designer |[Flowable Web Designer][wwd-1]|                 |                       |
 
 
 [bs-1]: http://gradle.org/
